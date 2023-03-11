@@ -4,6 +4,8 @@
    </a>
 </p>
 
+![Design and Development](https://media.licdn.com/dms/image/D5616AQFKjx3nlyWlTQ/profile-displaybackgroundimage-shrink_350_1400/0/1672508618320?e=1683763200&v=beta&t=bC2z3TK1xDx3Cv4ypCrGJZtEwdPrPTPexRNeUtbSvkc)
+
 <p align="center">
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Full-stack+web+and+app+Developer;Learning+AI%2CML+and+BlockChain;Beginner+UI%2FUX+designer;I+Follow+%3A%22stay+hungry+stay+foolish%22" alt="Typing SVG" />
