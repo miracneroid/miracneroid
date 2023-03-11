@@ -12,6 +12,7 @@ Linkedin at https://in.linkedin.com/in/miracneroid,
 Twitter at https://twitter.com/miracneroid, 
 YouTube at https://www.youtube.com/@miracneroid,
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miracneroid)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **miracneroid/miracneroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
