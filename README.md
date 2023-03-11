@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Ayush+Srivastava)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 This is Ayush greeting you on behalf of miracneroid.com
