@@ -6,7 +6,7 @@
   <div style="display: inline-block; margin-right: 20px;">
     <h2>GitHub Stats</h2>
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="GitHub Stats" height="192px" width="330px">
+      <img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="GitHub Stats" height="152px" width="250px">
     </a>
   </div>
   
@@ -17,7 +17,7 @@
   <div style="display: inline-block; margin-left: 20px;">
     <h2>Github Streaks</h2>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streaks" height="192px" width="330px">
+      <img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streaks" height="152px" width="250px">
     </a>
   </div>
   
