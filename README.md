@@ -1,6 +1,6 @@
 <!-- 💻 GitHub Stats -->
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Ayush's GitHub stats" height="192px" width="430px"></a><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Ayush's GitHub stats" height="152px" width="330px"></a><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak"height="152px" width="330px"/></a>
 </p>
 
 <!--Squirel Image-->
