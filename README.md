@@ -1,18 +1,8 @@
-<!-- 💻 GitHub Stats and 🔥 Github Streaks side by side with headings and vertical line -->
-<div align="center">
-  <div style="display: inline-block; margin-right: 20px;">
-    <h2>GitHub Stats</h2>
-    <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="GitHub Stats" height="192px" width="48%">
-    </a>
-  </div>
-  <div style="display: inline-block; border-left: 2px solid #ddd; padding-left: 20px;">
-    <h2>Github Streaks</h2>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streaks" height="192px" width="48%">
-    </a>
-  </div>
-</div>
+<!-- 💻 GitHub Stats and 🔥 Github Streaks side by side -->
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="GitHub Stats" height="192px" width="48%"></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" height="192px" width="48%"></a>
+</p>
 
 
 <!--Squirel Image-->
