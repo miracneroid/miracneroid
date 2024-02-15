@@ -17,10 +17,6 @@
 
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miracneroid&theme=react-dark)](https://github.com/miracneroid/github-readme-activity-graph)
 
-<b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-</p>
-
-
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=miracneroid&theme=onedark&column=-1" />
 </p>
