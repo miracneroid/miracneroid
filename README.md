@@ -23,12 +23,6 @@
 
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miracneroid&theme=react-dark)](https://github.com/miracneroid/github-readme-activity-graph)
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=miracneroid&theme=onedark&column=-1" />
-</p>
-
-
-
 <p align="center" >
   <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
     <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
