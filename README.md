@@ -1,12 +1,17 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/miracneroid/count.svg?"  />
+</div>
+
+###
+
 <!--Squirel Image-->
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
-
-![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
 
 <!--Action Status-->
 [![Actions Status](https://github.com/miracneroid/miracneroid/workflows/wakatime-stats/badge.svg)](https://github.com/miracneroid/miracneroid/actions)
 [![Actions Status](https://github.com/miracneroid/miracneroid/workflows/update-gh-activity/badge.svg)](https://github.com/miracneroid/miracneroid/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=miracneroid.miracneroid)
+
 
 
 <!-- <p align="center">
@@ -19,13 +24,14 @@
 
 ## 💻 GitHub Stats
 <p align="center">
-  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
-  <a href="#"><img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a></p>
 
-  <p align="center">
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
-  <h3 align="center">Github Readme Streak Stats</h3>
+<summary><b>🔥 Github Streaks</b></summary><br>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miracneroid&theme=react-dark)](https://github.com/miracneroid/github-readme-activity-graph)
 
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
@@ -45,7 +51,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=miracneroid&theme=onedark&column=-1" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miracneroid&theme=github-dark-dimmed&custom_title=Miracneroid%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center" >
   <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
@@ -148,10 +153,7 @@ YAML               73 hrs 4 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-simple-->
 
 
-<summary><b>🔥 Github Streaks</b></summary><br>
-<p align="center">
-<a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark"></a>
-</p>
+
 
 Liked it ?
 
