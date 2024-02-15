@@ -163,5 +163,5 @@ https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ma
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
+![snake gif](https://github.com/miracneroid/miracneroid/blob/output/github-contribution-grid-snake.gif)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
