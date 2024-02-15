@@ -141,12 +141,24 @@ Liked it ?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<a href="https://discord.gg/NbMQUPjHz7" target="blank"><img align="center" src="
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="miracneroid" height="30" width="40" /></a>
-<a href="https://instagram.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miracneroid" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@miracneroid" height="30" width="40" /></a>
+<a href="https://codepen.io/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://dev.to/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://twitter.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miracneroid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://kaggle.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://fb.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://instagram.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://dribbble.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://medium.com/@miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@miracneroid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/miracneroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="miracneroid" height="30" width="40" /></a>
+<a href="https://discord.gg/#6468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6468" height="30" width="40" /></a>
+<a href="/https://medium.com/@miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@miracneroid" height="30" width="40" /></a>
 </p>
 
 *ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
