@@ -1,35 +1,21 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/miracneroid/count.svg?"  />
-</div>
-
-###
-
 <!--Squirel Image-->
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
-<!--Action Status-->
-[![Actions Status](https://github.com/miracneroid/miracneroid/workflows/wakatime-stats/badge.svg)](https://github.com/miracneroid/miracneroid/actions)
-[![Actions Status](https://github.com/miracneroid/miracneroid/workflows/update-gh-activity/badge.svg)](https://github.com/miracneroid/miracneroid/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=miracneroid.miracneroid)
-
-
-
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
-
 <p align="center">
-  <img src="https://socialify.git.ci/miracneroid/miracneroid/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="miracneroid" width="700" height="300" />
+  <img src="https://socialify.git.ci/miracneroid/miracneroid/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="miracneroid" width="640" height="320" />
 </p>
 
-## 💻 GitHub Stats
-<p align="center">
-  <a href="#"><img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a></p>
 
-<summary><b>🔥 Github Streaks</b></summary><br>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+
+<!-- 💻 GitHub Stats and 🔥 Github Streaks side by side -->
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Ayush's GitHub stats" height="192px" width="430px">
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" height="195px" width="431px">
+  </a>
+</div>
 
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miracneroid&theme=react-dark)](https://github.com/miracneroid/github-readme-activity-graph)
 
@@ -50,6 +36,7 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=miracneroid&theme=onedark&column=-1" />
 </p>
+
 
 
 <p align="center" >
@@ -169,6 +156,11 @@ Liked it ?
 *BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">  
+  <img src="https://profile-counter.glitch.me/miracneroid/count.svg" alt="Visitor Count" />
+  <p>Thank you for visiting!</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
