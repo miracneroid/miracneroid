@@ -5,16 +5,21 @@
   <img src="https://socialify.git.ci/miracneroid/miracneroid/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="miracneroid" width="640" height="320" />
 </p>
 
+<!-- 💻 GitHub Stats and 🔥 Github Streaks side by side with headings and vertical line -->
 
-
-<!-- 💻 GitHub Stats and 🔥 Github Streaks side by side -->
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="Ayush's GitHub stats" height="192px" width="430px">
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" height="195px" width="431px">
-  </a>
+  <div style="display: inline-block; margin-right: 20px;">
+    <h2>GitHub Stats</h2>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="GitHub Stats" height="192px" width="330px">
+    </a>
+  </div>
+  <div style="display: inline-block; border-left: 2px solid #ddd; padding-left: 20px;">
+    <h2>Github Streaks</h2>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streaks" height="192px" width="330px">
+    </a>
+  </div>
 </div>
 
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miracneroid&theme=react-dark)](https://github.com/miracneroid/github-readme-activity-graph)
