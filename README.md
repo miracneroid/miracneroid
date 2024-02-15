@@ -1,3 +1,29 @@
+<!-- 💻 GitHub Stats and 🔥 Github Streaks side by side with headings and vertical line -->
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <div style="display: inline-block; margin-right: 20px;">
+    <h2>GitHub Stats</h2>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="GitHub Stats" height="192px" width="330px">
+    </a>
+  </div>
+  
+  <!-- Vertical Line -->
+  <div style="display: inline-block; border-left: 2px solid #ddd; height: 192px; margin-top: 20px; margin-bottom: 20px;"></div>
+  
+  <!-- Github Streaks -->
+  <div style="display: inline-block; margin-left: 20px;">
+    <h2>Github Streaks</h2>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streaks" height="192px" width="330px">
+    </a>
+  </div>
+  
+</div>
+
+
 <!--Squirel Image-->
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
