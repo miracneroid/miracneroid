@@ -141,9 +141,12 @@ Liked it ?
 <a href="/https://medium.com/@miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@miracneroid" height="30" width="40" /></a>
 </p>
 
-*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+*ERC-20 / EVM: **...***
 
-*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+*BTC: **...***
+
+
+<img src="https://raw.githubusercontent.com/miracneroid/miracneroid/output/snake.svg" alt="Snake animation" />
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -155,5 +158,4 @@ Liked it ?
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<img src="https://raw.githubusercontent.com/miracneroid/miracneroid/output/snake.svg" alt="Snake animation" />
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
