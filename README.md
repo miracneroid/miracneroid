@@ -155,5 +155,5 @@ Liked it ?
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-![snake gif](https://github.com/miracneroid/miracneroid/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/miracneroid/miracneroid/output/snake.svg" alt="Snake animation" />
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
