@@ -48,7 +48,8 @@
 
 ![snake gif](https://github.com/YOUR_USERNAME/miracneroid/blob/output/github-contribution-grid-snake.gif)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
+
 
 <div align="center">  
   <img src="https://profile-counter.glitch.me/miracneroid/count.svg" alt="Visitor Count" />
