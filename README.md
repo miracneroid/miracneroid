@@ -75,10 +75,6 @@
 
 ---
 
-<h2 align="center">🐍 Snake Contributions</h2>
-
-![snake gif](https://github.com/YOUR_USERNAME/miracneroid/blob/output/github-contribution-grid-snake.gif)
-
 ![](./profile-3d-contrib/profile-night-view.svg)
 ---
 
