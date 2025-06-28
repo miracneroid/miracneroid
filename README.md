@@ -13,14 +13,12 @@
 </p>
 
 ---
-
-<h2 align="center">🔥 GitHub Stats</h2>
-
+<!-- 💻 GitHub Stats and 🔥 Github Streaks side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" height="192px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miracneroid&theme=ocean_gradient&hide_border=true" alt="GitHub Streak" height="192px" />
+  <h2>🔥 GitHub Stats</h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=miracneroid&label=Profile%20views&color=0e75b6&style=flat" alt="miracneroid" /> </p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=miracneroid&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" alt="GitHub Stats" height="192px" width="48%"></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" height="192px" width="48%"></a>
 </p>
-
 ---
 
 ### 🛠️ Languages and Tools
