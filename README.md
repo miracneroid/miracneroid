@@ -77,7 +77,6 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://stackoverflow.com/users/miracneroid" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/></a>
   <a href="https://codepen.io/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="miracneroid" height="30" width="40" /></a>
   <a href="https://dev.to/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="miracneroid" height="30" width="40" /></a>
   <a href="https://twitter.com/miracneroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miracneroid" height="30" width="40" /></a>
