@@ -99,14 +99,15 @@
 
 ---
 
-<div align="center">  
+<div align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=miracneroid&style=for-the-badge">
+  </a>
   <img src="https://profile-counter.glitch.me/miracneroid/count.svg" alt="Visitor Count" />
   <p>Thank you for visiting!</p>
 </div>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
