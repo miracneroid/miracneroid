@@ -101,7 +101,7 @@
 
 <div align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=miracneroid&style=for-the-badge&label=Stalkers🙈">
+    <img src="https://komarev.com/ghpvc/?username=miracneroid&style=for-the-badge&label=Stalkers🙈&color=red">
   </a>
   <p>Thank you for visiting!</p>
 </div>
