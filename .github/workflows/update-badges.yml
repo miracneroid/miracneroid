@@ -34,7 +34,7 @@ jobs:
           
           try:
               # Fetch badges from Credly API
-              url = 'https://www.credly.com/api/v1/users/miracneorid/badges'
+              url = 'https://www.credly.com/api/v1/users/miracneroid/badges'
               response = requests.get(url)
               
               if response.status_code == 200:
@@ -94,7 +94,7 @@ jobs:
           
           echo "" >> README.md
           echo "---" >> README.md
-          echo "Visit my [Credly profile](https://www.credly.com/users/miracneorid) to see all my achievements!" >> README.md
+          echo "Visit my [Credly profile](https://www.credly.com/users/miracneroid) to see all my achievements!" >> README.md
           
       - name: Commit changes
         if: steps.fetch-badges.outputs.status == 'success'
