@@ -1,10 +1,10 @@
-name: Update Badges
+name: Update Credly Badges
 
 on:
   schedule:
     # Runs daily at 2 AM UTC
     - cron: "0 2 * * *"
-  workflow_dispatch: # Allow manual runs
+  workflow_dispatch:
 
 jobs:
   update-badges:
@@ -12,9 +12,29 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - name: Update Badges
-        uses: pemtajo/badge-readme@main
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          CREDLY_USER: ${{ github.actor }} # Uses your GitHub username
-          NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update Credly Badges
+        run: node update-credly-badges.js
+        env:
+          CREDLY_USER: miracneroid
+          NUMBER_LAST_BADGES: 10
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update Credly badges" || echo "No changes to commit"
+          git push
