@@ -12,25 +12,95 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          node-version: '18'
+          python-version: '3.9'
           
-      - name: Install dependencies
+      - name: Install requests
         run: |
-          npm install -g @badges/shields
+          pip install requests
           
-      - name: Update README with Credly Badges
-        uses: pemtajo/badge-readme@v2.0.0
-        with:       
-          CREDLY_USER: miracneorid
-          NUMBER_LAST_BADGES: 10
-          COMMIT_MESSAGE: "Update Credly badges"
-          BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch Credly badges
+        id: fetch-badges
+        run: |
+          python -c "
+          import requests
+          import json
+          
+          try:
+              # Fetch badges from Credly API
+              url = 'https://www.credly.com/api/v1/users/miracneorid/badges'
+              response = requests.get(url)
+              
+              if response.status_code == 200:
+                  badges = response.json()
+                  badge_count = len(badges.get('data', []))
+                  print(f'Found {badge_count} badges')
+                  
+                  # Create badge URLs
+                  badge_urls = []
+                  for badge in badges.get('data', []):
+                      badge_id = badge.get('id')
+                      if badge_id:
+                          badge_url = f'https://images.credly.com/size/680x680/images/{badge_id}/image.png'
+                          badge_urls.append(badge_url)
+                  
+                  # Save badge info
+                  with open('badge_info.json', 'w') as f:
+                      json.dump({'count': badge_count, 'urls': badge_urls}, f)
+                      
+                  print(f'::set-output name=badge-count::{badge_count}')
+                  print(f'::set-output name=status::success')
+              else:
+                  print(f'Failed to fetch badges: {response.status_code}')
+                  print(f'::set-output name=status::failed')
+                  
+          except Exception as e:
+              print(f'Error: {e}')
+              print(f'::set-output name=status::failed')
+          "
+          
+      - name: Update README
+        if: steps.fetch-badges.outputs.status == 'success'
+        run: |
+          # Read current README
+          if [ -f "README.md" ]; then
+              cp README.md README.md.backup
+          fi
+          
+          # Create or update README with badges
+          cat > README.md << 'EOF'
+          # GitHub Bot
+          
+          ## My Credly Badges
+          
+          I have earned **$(cat badge_info.json | python -c "import sys, json; print(json.load(sys.stdin)['count'])")** badges on Credly!
+          
+          ### Recent Badges:
+          EOF
+          
+          # Add badge images
+          cat badge_info.json | python -c "
+          import sys, json
+          data = json.load(sys.stdin)
+          for i, url in enumerate(data['urls'][:6]):  # Show first 6 badges
+              print(f'![Badge {i+1}]({url})')
+          " >> README.md
+          
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "Visit my [Credly profile](https://www.credly.com/users/miracneorid) to see all my achievements!" >> README.md
+          
+      - name: Commit changes
+        if: steps.fetch-badges.outputs.status == 'success'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Credly badges"
+          git push
