@@ -19,6 +19,105 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" height="192px" width="48%"></a>
 </p>
 
+
+## Badges
+
+### Hacktoberfest
+
+[![An image of @hridyeshgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miracneroid)](https://holopin.io/@miracneroid)
+[![Credly Profile](https://upload.wikimedia.org/wikipedia/commons/6/61/Credly_Logo.png)](https://www.credly.com/users/miracneroid)
+[![Badge Name](https://link-to-badge-image.png)](https://www.credly.com/badges/YOUR_BADGE_LINK)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/badges/example-image.png)](https://www.credly.com/badges/example-link)
+
+### Google Profile
+<div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+  <a href="https://g.dev/miracneroid" style="text-decoration: none; color: inherit;">
+    <table style="border-collapse: separate; border-spacing: 15px 10px;">
+      <tr>
+          <td align="center">
+          <img src="https://s3.tebi.io/imgbucket/IO%202025.png" 
+               alt="Google I/O Connect'25" 
+                style="width: 120px; height: 110px; object-fit: contain; min-width: 120px; min-height: 110px;">
+              <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'25</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+      </tr>
+        <tr>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/solution-challenge/2024/registered/badge.svg" 
+               alt="Solution Challenge'24" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Solution Challenge'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
+               alt="Google Cloud Innovator" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
+
+### LeetCode
+
+<div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+  <a href="https://leetcode.com/u/miracneroid/" style="text-decoration: none; color: inherit;">
+    <table style="border-collapse: separate; border-spacing: 15px 10px;">
+      <tr>
+        <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" 
+               alt="LeetCode 200" 
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">LeetCode 200</div>
+        </td>
+        <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" 
+               alt="LeetCode 100" 
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">LeetCode 100</div>
+        </td>
+        <td align="center">
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" 
+               alt="LeetCode October 2024" 
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">October 2024</div>
+        </td>
+        <td align="center">
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" 
+               alt="LeetCode September 2024" 
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">September 2024</div>
+        </td>
+        <td align="center">
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" 
+               alt="LeetCode August 2024" 
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">August 2024</div>
+        </td>
+        <td align="center">
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" 
+               alt="LeetCode July 2024" 
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">July 2024</div>
+        </td>
+        <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" 
+               alt="LeetCode 50" 
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">LeetCode 50</div>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
+
 ### 🛠️ Languages and Tools
 
 #### Frontend
