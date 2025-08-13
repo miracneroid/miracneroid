@@ -31,6 +31,76 @@
 
 ### Credly
 <!--START_SECTION:badges-->
+<div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+  <a href="https://g.dev/miracneroid" style="text-decoration: none; color: inherit;">
+    <table style="border-collapse: separate; border-spacing: 15px 10px;">
+      <tr>
+          <td align="center">
+          <img src="https://www.credly.com/badges/5d167607-9b8e-4ef2-b94f-42653c44288e" 
+               alt="Google I/O Connect'25" 
+                style="width: 120px; height: 110px; object-fit: contain; min-width: 120px; min-height: 110px;">
+              <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'25</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+      </tr>
+        <tr>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/solution-challenge/2024/registered/badge.svg" 
+               alt="Solution Challenge'24" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Solution Challenge'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
+               alt="Google Cloud Innovator" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
 <!--END_SECTION:badges-->
 
 ## �� My Credly Badges
