@@ -29,6 +29,10 @@
 [![Badge Name](https://link-to-badge-image.png)](https://www.credly.com/badges/YOUR_BADGE_LINK)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/badges/example-image.png)](https://www.credly.com/badges/example-link)
 
+### Credly
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ### Google Profile
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
   <a href="https://g.dev/miracneroid" style="text-decoration: none; color: inherit;">
