@@ -20,5 +20,5 @@ jobs:
       - name: Badges - Readme
         uses: miracneroid/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: miracneroid
           NUMBER_LAST_BADGES: 10
