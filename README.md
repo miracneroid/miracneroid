@@ -33,6 +33,16 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+## �� My Credly Badges
+
+### Recent Badges:
+
+<img src="https://images.credly.com/size/680x680/images/badge1.png" alt="Badge 1" width="120" height="120" style="margin: 5px;">
+<img src="https://images.credly.com/size/680x680/images/badge2.png" alt="Badge 2" width="120" height="120" style="margin: 5px;">
+<img src="https://images.credly.com/size/680x680/images/badge3.png" alt="Badge 3" width="120" height="120" style="margin: 5px;">
+
+**Visit my [Credly profile](https://www.credly.com/users/miracneorid) to see all my achievements!**
+
 ### Google Profile
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
   <a href="https://g.dev/miracneroid" style="text-decoration: none; color: inherit;">
