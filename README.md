@@ -41,7 +41,7 @@
 <img src="https://images.credly.com/size/680x680/images/badge2.png" alt="Badge 2" width="120" height="120" style="margin: 5px;">
 <img src="https://images.credly.com/size/680x680/images/badge3.png" alt="Badge 3" width="120" height="120" style="margin: 5px;">
 
-**Visit my [Credly profile](https://www.credly.com/users/miracneorid) to see all my achievements!**
+**Visit my [Credly profile](https://www.credly.com/users/miracneroid) to see all my achievements!**
 
 ### Google Profile
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
