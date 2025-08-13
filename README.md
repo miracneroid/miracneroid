@@ -58,6 +58,12 @@
                style="width: 100px; height: 100px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
         </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
       </tr>
         <tr>
         <td align="center">
@@ -77,6 +83,12 @@
                alt="Solution Challenge'24" 
                style="width: 120px; height: 120px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Solution Challenge'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
         </td>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
