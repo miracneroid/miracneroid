@@ -24,94 +24,81 @@
 
 ### Hacktoberfest
 
-[![An image of @hridyeshgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miracneroid)](https://holopin.io/@miracneroid)
-[![Credly Profile](https://upload.wikimedia.org/wikipedia/commons/6/61/Credly_Logo.png)](https://www.credly.com/users/miracneroid)
-[![Badge Name](https://link-to-badge-image.png)](https://www.credly.com/badges/YOUR_BADGE_LINK)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/badges/example-image.png)](https://www.credly.com/badges/example-link)
+[![An image of @miracneroid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miracneroid)](https://holopin.io/@miracneroid)
 
 ### Credly
 <!--START_SECTION:badges-->
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
-  <a href="https://g.dev/miracneroid" style="text-decoration: none; color: inherit;">
+  <a href="https://www.credly.com/users/miracneroid" style="text-decoration: none; color: inherit;">
     <table style="border-collapse: separate; border-spacing: 15px 10px;">
       <tr>
-          <td align="center">
-          <img src="https://www.credly.com/badges/5d167607-9b8e-4ef2-b94f-42653c44288e" 
-               alt="Google I/O Connect'25" 
-                style="width: 120px; height: 110px; object-fit: contain; min-width: 120px; min-height: 110px;">
-              <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'25</div>
+        <td align="center">
+          <img src="https://images.credly.com/size/680x680/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" 
+               alt="Prompt Design in Vertex AI Skill Badge" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Prompt Designing</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
-               alt="Google I/O Connect'24" 
-               style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+          <img src="https://images.credly.com/size/680x680/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" 
+               alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">GenAI Apps with Gemini</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
-               alt="Google I/O Connect'24" 
-               style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+          <img src="https://images.credly.com/size/680x680/images/86a3283f-3e35-494f-82da-3fb3e89ba223/image.png" 
+               alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">M & M RAG</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
-               alt="Google I/O Connect'24" 
-               style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+          <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" 
+               alt="Python for Data Science and AI" 
+                style="width: 140px; height: 140px; object-fit: contain; min-width: 120px; min-height: 110px;">
+              <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Data Science and AI</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
-               alt="Google I/O Connect'24" 
-               style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+          <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
+               alt="Introduction to Cybersecurity" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Cybersecurity</div>
         </td>
       </tr>
         <tr>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
-               alt="Google I/O Connect'24" 
-               style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+          <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" 
+               alt="CCNA: Introduction to Networks" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">CCNA: 1</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
-               alt="Google I/O Connect'24" 
-               style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+          <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" 
+               alt="CCNA: Switching, Routing, and Wireless Essentials" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">CCNA: 2</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/community/solution-challenge/2024/registered/badge.svg" 
-               alt="Solution Challenge'24" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Solution Challenge'24</div>
+          <img src="https://images.credly.com/size/680x680/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" 
+               alt="CCNA: Enterprise Networking, Security, and Automation" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">CCNA: 3</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
-               alt="Google I/O Connect'24" 
-               style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+          <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" 
+               alt="Python Essentials 1" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Python Essentials 1</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
-               alt="Google Cloud Innovator" 
-               style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
+          <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" 
+               alt="Python Essentials 2" 
+               style="width: 140px; height: 140px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Python Essentials 2</div>
         </td>
       </tr>
     </table>
   </a>
 </div>
 <!--END_SECTION:badges-->
-
-## �� My Credly Badges
-
-### Recent Badges:
-
-<img src="https://images.credly.com/size/680x680/images/badge1.png" alt="Badge 1" width="120" height="120" style="margin: 5px;">
-<img src="https://images.credly.com/size/680x680/images/badge2.png" alt="Badge 2" width="120" height="120" style="margin: 5px;">
-<img src="https://images.credly.com/size/680x680/images/badge3.png" alt="Badge 3" width="120" height="120" style="margin: 5px;">
-
-**Visit my [Credly profile](https://www.credly.com/users/miracneroid) to see all my achievements!**
 
 ### Google Profile
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
