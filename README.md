@@ -91,7 +91,7 @@
           <img src="https://images.credly.com/size/680x680/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" 
                alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge" 
                style="width: 140px; height: 140px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">GenAI Apps with Gemini</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">GenAI Apps</div>
         </td>
         <td align="center">
           <img src="https://images.credly.com/size/680x680/images/86a3283f-3e35-494f-82da-3fb3e89ba223/image.png" 
