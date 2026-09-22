@@ -20,6 +20,12 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miracneroid&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" height="192px" width="48%"></a>
 </p>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miracneroid/miracneroid/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+</p>
+
 ### 🛠️ Languages and Tools
 
 #### Frontend
@@ -499,4 +505,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
